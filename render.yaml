@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: hr-system
+    runtime: docker
+    plan: free
